@@ -1,0 +1,10 @@
+I have two jumpers on the backside of my PCB, these were there when I purchased the PCB:
+
+U73 - 2716 - Character Generator ROM
+Jumper for pins 24(Vcc) to 21(Vpp) 
+The 2716 requires +5 on 21(Vpp) in normal operation.
+Assumption is Pin21 was floating in the bpard layout.
+
+Trace Cut U10-12 to U11-3
+Jumper U11-3 to U11-14(Vcc)
+In the manual I downloaded on the "CRT DISPLAY GEN." schematic page this change is hand drawn in the schematic. As there is no correlation between the manual I downloaded and the PCB I have this makes me wonder of this was a common mod.
