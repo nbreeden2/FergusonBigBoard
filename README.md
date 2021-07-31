@@ -19,3 +19,12 @@ SIO2-RS232-Config.png
 MicroCornucopia
   Collection of Micro Cornucopia user magazines that covered the BigBoard.
   
+jumpers.png
+  I/O connections and Jumper configurations
+  
+BodgeWires.prg
+  Documents the bodge wires on the PCB I have.
+  
+SIO2-BAUD-Crystal.png
+  Documents the use of either a 5.0688MHz or 4.9152MHz crystal for BAUD rate generation listing the deviation from standard BAUD rates.
+  I'm using a 4.9152MHz crystal as it gives exact timing for 19200 BAUD.
