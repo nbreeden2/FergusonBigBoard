@@ -1,7 +1,8 @@
 # FergusonBigBoard
 Documentation and files for the Ferguson BigBoard single board computer
 Files and documentation from my BigBoard work.
-These file accompany the videos at https://youtu.be/K9SL5NfVGII
+
+These files accompany the videos at https://youtu.be/K9SL5NfVGII
 
 Board-Mods.txt
   Documents the two bodge wires I have on the backside of my BigBoards PCB.
