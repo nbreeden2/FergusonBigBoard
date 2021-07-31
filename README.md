@@ -16,3 +16,6 @@ IC-Layout.png
 SIO2-RS232-Config.png
   Consolodation from the users manual for setting up RS-232.
   
+MicroCornucopia
+  Collection of Micro Cornucopia user magazines that covered the BigBoard.
+  
