@@ -21,3 +21,5 @@ BodgeWires.prg  -  Documents the bodge wires on the PCB I have.
 SIO2-BAUD-Crystal.png -  Documents the use of either a 5.0688MHz or 4.9152MHz crystal for BAUD rate generation listing the deviation from standard BAUD rates. I'm using a 4.9152MHz crystal as it gives exact timing for 19200 BAUD.
 
 DiskImages.zip  -  I have not tested these. Contains images of 8-inch floppy disks for the Big Board. I see what looks like CP/M on them which would make sense.
+
+Added 4 schematic images. Each is suitable for printing on 11x17 pages.
